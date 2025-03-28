@@ -72,12 +72,12 @@ RemoteRemedy is designed to make healthcare simple and accessible for both docto
 
 <h1 align="center"> <a href="https://jyotidwi-remoteremedy.vercel.app/"> Live Project Demo ↗️</a></h1>
 
-![](https://github.com/jyotidwi/Remote_Remedy/blob/master/Overview/1.png)
-![](https://github.com/jyotidwi/Remote_Remedy/blob/master/Overview/2.png)
-![](https://github.com/jyotidwi/Remote_Remedy/blob/master/Overview/3.png)
-![](https://github.com/jyotidwi/Remote_Remedy/blob/master/Overview/4.png)
-![](https://github.com/jyotidwi/Remote_Remedy/blob/master/Overview/5.png)
-![](https://github.com/jyotidwi/Remote_Remedy/blob/master/Overview/6.png)
+![](https://github.com/jyotidwi/Remote_Remedy/blob/main/Overview/1.png)
+![](https://github.com/jyotidwi/Remote_Remedy/blob/main/Overview/2.png)
+![](https://github.com/jyotidwi/Remote_Remedy/blob/main/Overview/3.png)
+![](https://github.com/jyotidwi/Remote_Remedy/blob/main/Overview/4.png)
+![](https://github.com/jyotidwi/Remote_Remedy/blob/main/Overview/5.png)
+![](https://github.com/jyotidwi/Remote_Remedy/blob/main/Overview/6.png)
 
 
 <h3 align="right"><a href="#top">⬆️</a></h3>
@@ -216,7 +216,7 @@ docker-compose kill
 <!-- ---------------------------------------------------------------------------------------------------------------------------------------------------------   -->
 <h2>🧾License</h2>
 
-This project is licensed under the Apache License 2.0. See the [LICENSE](https://github.com/jyotidwi/Remote_Remedy/blob/master/LICENSE) file for more details.
+This project is licensed under the Apache License 2.0. See the [LICENSE](https://github.com/jyotidwi/Remote_Remedy/blob/main/LICENSE) file for more details.
   
   ```
    Copyright 2025 TeamRemedy
