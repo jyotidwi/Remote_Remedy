@@ -1,0 +1,40 @@
+# MongoDB URL
+DBURL=mongodb+srv://jyoti007:G8IX07gN5QH1ykZW@cluster0.sx4fb.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+#DBURL=mongodb://localhost:27017/remoteremedy
+
+# NodeMailer
+HOST_EMAIL=your_host_email
+PASSWORD=your_app_password
+PORT=587
+
+# Stripe
+STRIPE_SECRET_KEY=your_stripe_secret_key
+
+# Backend server after deployment
+DOMAIN=your_domain
+
+# JWT Secret for encryption
+SECRET=86d61b73-af1c-404c-ab30-f34464afc263
+
+# WhatsApp Notification
+TWILIO_WHATSAPP_ACCOUNT_SID="ACXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+TWILIO_WHATSAPP_AUTH_TOKEN="your_auth_token"
+TWILIO_WHATSAPP_FROM="whatsapp:+1234567890"
+
+# Firebase Authentication Keys
+FIREBASE_TYPE=service_account
+FIREBASE_PROJECT_ID=remoteremedy-757d9
+FIREBASE_PRIVATE_KEY_ID=9beee332ec6f61abc25dac096e90fff5336052fd
+FIREBASE_PRIVATE_KEY=-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCtfZKx7XF9id37\nCu85dQgWGtEyUsnyPiWSmfQxFsO5zQUBw6jv5gvvtkiz3xXAX4ah40HnuYa+/BFo\nxQbnBxviJ7WDcJTNvi2DkHof6RzGPQAcrNNLjbP57u8rZNk+8fMBAO/elL7qzeJ6\nIdNAZWpMTQn/n9aAbWTVTiseWD6e6f+sMc7ZNuHZoESs2htSJCvUODrwapko7njv\ncpUOFAGaYtricMzqyqC7U3UCYANUT3fabXIFjRZvbD41smw2apkYpWnwzfDqoo33\njXa014m1Zur6kgUnSLdI6jHnSyeIMEoShpvzfJCc0CYz5KJD+Mx+iEVCU3CsJ4jW\no5IkgTl1AgMBAAECggEAGbIjZ9iSCmTA3NWsBH/VvIZozTIPaKJ1SK8mSJ4FS8/2\nqaH789pIEs9WGdQVIerUI0aoZISpVUC66GBkSxQVuGumugrS810zWwzrVa4efasb\nyON9IS/iBAb0ZCI5/hVyZ0fm/znbRCZN4MaBRkSvF5GChVq8d8WcHW7IOqSZ08n4\ntv63RdlUvO9VJcxCcJGz7rY9ExYvEHfEz6oelMx/kXm0YSHaH4X4lMmlLAANKWQK\n8zXkqa4CM9k8n58L/+YBNHWNxff0vbtpurtxCOBoOEyDkCcQ+Ma8IEtSiDqPf7x0\nSCjYFIIq7YA1M/YLS57vpVxwQSUt58rmioU47l574QKBgQDeu9Ps47UF9TT88ymN\nt8MFtbPY+uKDJMd4cHCOA5y3/A57VPWJSYtQEa3gDwlSqkZ6cqAEk9WD+nQoMk+l\nz6Bm/kMdzCYZWQA4UygnbDW+4pICzdjIwgzfR2eamA4ux5+vxkpqnbQokcDN+Tfl\nq4cspWUe7CoACv1rcvMO4gJZ1QKBgQDHZvGALYxJjxzIv0bUP6vHa9HTwiLeFLFg\nNPrIEehjBfn4FLfbX1004nm7BEcUUU9CZ6DpnWZsm7aU8F9qcg0YgIV10bSKu0se\nZIV9zEof4rIZAdtXDMdNYvRgh9byYA15RMm0wEP3rMV+ZnYVkYIUui3mhG+NY/ar\n2PBN/wqRIQKBgQC57wgx58C1MYZDZuYYZP/Lo2x4RK+UlL5jf1Gma8OHH0YjlL/I\nFHnUpH2G3maE+JoPG+MTDyodm5Ud/SnaHCIl+DmlBUgEvvRdEKYjisSvDcqfxqEi\nrkM6nQwS1L56NLDMdnam2/GKMGpIR7Ru6KrWDVgF4VYKZSI6cWIP2YHm5QKBgCxe\nvMhP2lKX9Mi6v1EFZfz3AfbD0SxnoFyPDWqtiW9XahsIySyYWM4mwv2ZYxOjUCav\nln/FVYA/We5kWmb+P+m+13OzGSBxsrJtncKzTZ8wu36TCjKhlkujBEvijjLaqsTc\nSKHe0oDvQfbxZ78+5JomH4aW25ezsbTljftdEAXhAoGATks7jOHwsSN1P8rZbktr\nP2Dl1VLe7leTIoSqv9Hr284m5cb0+Q7V+frU8ASl4VKH8i/pOtSr3QkoWHU+y5gc\ny+tAwpM//HVPN3i9Dh0AUopl0FMXgee1Vk47BzAtEu1tqdP1W8TTYcn1SDM/oDaP\nio0hSwXgqYFBerxw5UBy5Ec=\n-----END PRIVATE KEY-----\n
+FIREBASE_CLIENT_EMAIL=firebase-adminsdk-fbsvc@remoteremedy-757d9.iam.gserviceaccount.com
+FIREBASE_CLIENT_ID=112944753531600884336
+FIREBASE_AUTH_URI=https://accounts.google.com/o/oauth2/auth
+FIREBASE_TOKEN_URI=https://oauth2.googleapis.com/token
+FIREBASE_AUTH_PROVIDER_CERT_URL=https://www.googleapis.com/oauth2/v1/certs
+FIREBASE_CLIENT_CERT_URL=https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40remoteremedy-757d9.iam.gserviceaccount.com
+FIREBASE_UNIVERSE_DOMAIN=googleapis.com
+
+# Cloudinary Authentication Keys
+CLOUDINARY_CLOUD_NAME="dpwwurkhz"
+CLOUDINARY_API_KEY="464514945988565"
+CLOUDINARY_API_SECRET="M8pFBrqsQ9PMKeGrk4wGTemg9Q0"
